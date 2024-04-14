@@ -1,4 +1,4 @@
-# Welcome to ResumeLab! 🚀
+# Welcome to CareerForge! 🚀
 
 ## Introduction:
 ResumeLab is a cutting-edge resume building web application designed to streamline the process of creating professional resumes. With its intuitive interface and powerful features, ResumeLab makes it easy for users to craft polished resumes that stand out to potential employers.
